@@ -25,6 +25,7 @@ This repository contains machine learning models designed for CubeSat data class
    git clone https://github.com/your-username/cubesat-ml-models.git
 
 2. Open the Jupyter notebooks and run the cells to train and evaluate the models.
+   
    **Requirements**
   - Python 3.x
   - Jupyter Notebook
